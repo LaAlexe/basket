@@ -1,0 +1,14 @@
+.book, .pencil,.notebook, .pen {
+	color: black;
+	cursor: pointer;
+	font-size: 28px;
+}
+.add_product{
+	background-color: green;
+	opacity:50%;
+	cursor:pointer;
+	font-size: 14px;
+}
+p, span{
+	display: inline-block;
+}
